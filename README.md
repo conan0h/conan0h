@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/conan0h/conan0h/katan.png" />
+<img src="https://github.com/conan0h/conan0h/katana.png" />
 <p align="center">
 
 <div align=center>
