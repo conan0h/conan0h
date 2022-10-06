@@ -4,8 +4,8 @@
 </p align="center">
 <br>
 <code>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conan0h&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=conan0h&show_icons=true&theme=radical)]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=conan0h)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=conan0h)
 </code>
 [![MasterHead]()](your GitHub link)
