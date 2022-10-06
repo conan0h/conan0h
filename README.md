@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/conan0h/conan0h/katan.png" />
 <p align="center">
 
 <div align=center>
